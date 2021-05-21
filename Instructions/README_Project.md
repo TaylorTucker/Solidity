@@ -74,7 +74,7 @@ You will need to fill in the constructor parameters with your designated `employ
 
 Test the `deposit` function by sending various values. Keep an eye on the `employee` balances as you send different amounts of Ether to the contract and ensure the logic is executing properly.
 
-![Remix Testing](Images/contract-execution.png)
+![Remix Testing](https://github.com/TaylorTucker/Solidity/blob/main/Instructions/Images/contract-execution.PNG?raw=true)
 
 
 
